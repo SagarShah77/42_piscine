@@ -1,0 +1,5 @@
+Credentials cache: API:32350
+        Principal: sshah@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 12 16:56:00 2018  Mar 13 02:56:00 2018  krbtgt/42.US.ORG@42.US.ORG
