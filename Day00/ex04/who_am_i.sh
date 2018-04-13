@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
+echo export PATH="$PATH:." >> ~/.bashrc
 ldapwhoami
-export PATH=$PATH:<.>
