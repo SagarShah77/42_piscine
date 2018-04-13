@@ -1,1 +1,1 @@
-ls -mtrd */
+ls -pmU
